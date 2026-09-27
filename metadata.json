@@ -1,0 +1,6 @@
+{
+  "name": "TikTok Booster",
+  "description": "Educational creator-growth platform to master TikTok algorithm literacy, audience retention, content optimization, account health, and monetization readiness.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
